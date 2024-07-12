@@ -1,2 +1,5 @@
 #Ignore all .txt files
 *.txt
+
+#Ignore all log giles
+*.log
